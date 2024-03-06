@@ -1,0 +1,45 @@
+Error occurred while processing station Tata: HTTPConnectionPool(host='localhost', port=57483): Max retries exceeded with url: /session/16233bb6eda8a677adc5b1f8e76a2a09/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1030ab110>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Error occurred while processing station Csolnok: HTTPConnectionPool(host='localhost', port=57482): Max retries exceeded with url: /session/376d30d8757d17868ae41250c3a81836/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103098610>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Error occurred while processing station Sződ: HTTPConnectionPool(host='localhost', port=57484): Max retries exceeded with url: /session/1b57cee73981821d50ba5248ff1280a9/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103010350>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Error occurred while processing station Pusztaszabolcs: HTTPConnectionPool(host='localhost', port=57485): Max retries exceeded with url: /session/a60d908c2d954222ca830a1fd70083bd/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10309a290>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Error occurred while processing station Csolnok: dictionary changed size during iteration
+Error occurred while processing station Pusztaszabolcs: dictionary changed size during iteration
+Error occurred while processing station Csókakő: dictionary changed size during iteration
+Error occurred while processing station Bernecebaráti: HTTPConnectionPool(host='localhost', port=58333): Max retries exceeded with url: /session/a23a8c46c37e61ab77688ce84928a058/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10271edd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Error occurred while processing station Tata: HTTPConnectionPool(host='localhost', port=58329): Max retries exceeded with url: /session/a98ccd25d3ed76b8c5931c140035fdc7/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102738450>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Error occurred while processing station Bernecebaráti: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Sződ: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Csolnok: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Pusztaszabolcs: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Tata: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Csókakő: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Csolnok: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Tata: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Sződ: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Pusztaszabolcs: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Csókakő: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Bernecebaráti: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Csolnok: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Sződ: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Tata: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Pusztaszabolcs: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Bernecebaráti: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Csókakő: get_temperature_values() missing 1 required positional argument: 'weather_data'
+Error occurred while processing station Csókakő: Message: Could not locate element with visible text: minimum - átlag - maximum
+
+Error occurred while processing station Sződ: Message: Could not locate element with visible text: minimum - átlag - maximum
+
+Error occurred while processing station Bernecebaráti: Message: Could not locate element with visible text: minimum - átlag - maximum
+
+Error occurred while processing station Csolnok: Message: Could not locate element with visible text: minimum - átlag - maximum
+
+Error occurred while processing station Pusztaszabolcs: Message: Could not locate element with visible text: minimum - átlag - maximum
+
+Error occurred while processing station Tata: Message: Could not locate element with visible text: minimum - átlag - maximum
+
+Error occurred while processing station Csolnok: maximum recursion depth exceeded
+Error occurred while processing station Pusztaszabolcs: maximum recursion depth exceeded
+Error occurred while processing station Csókakő: maximum recursion depth exceeded
+Error occurred while processing station Tata: maximum recursion depth exceeded
+Error occurred while processing station Bernecebaráti: maximum recursion depth exceeded
+Error occurred while processing station Sződ: maximum recursion depth exceeded
